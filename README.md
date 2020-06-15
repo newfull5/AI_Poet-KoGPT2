@@ -40,7 +40,7 @@ SKT-AI에서 공개한 한국어 문장 생성 모델 KoGPT2를 활용합니다.
     
 ## Acknowledgements
 
-* KoGPT2(https://github.com/SKT-AI/KoGPT2)
-* AI_Bookathon(https://github.com/jeina7/AI_Bookathon)
-* KoGPT2-FineTuning(https://github.com/gyunggyung/KoGPT2-FineTuning)
-* KoGPT2ForParaphrasing(https://github.com/MrBananaHuman/KoGPT2ForParaphrasing)
+* [KoGPT2](https://github.com/SKT-AI/KoGPT2)
+* [AI_Bookathon](https://github.com/jeina7/AI_Bookathon)
+* [KoGPT2-FineTuning](https://github.com/gyunggyung/KoGPT2-FineTuning)
+* [KoGPT2ForParaphrasing](https://github.com/MrBananaHuman/KoGPT2ForParaphrasing)
